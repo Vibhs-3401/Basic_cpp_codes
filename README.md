@@ -1,4 +1,4 @@
-# Data_structure_codes
+# Basic_cpp_codes
 
 Basic codes for bigginers.
 Technical language used is C++.
